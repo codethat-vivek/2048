@@ -23,7 +23,7 @@ Step - 5 :
 Enter the "python" command and your file's name. Type in python file.py where file is your Python file's name.
 For example, if your Python file is named "main", you will have to type - python main.py .
 
-#######################################################################
+########################################################################################################
 How to play - 
 
 Use the keys - 'W', 'S', 'A'. 'D' for up, down, left, right movement of the slides.
