@@ -26,6 +26,6 @@ For example, if your Python file is named "main", you will have to type - python
 ########################################################################################################
 How to play - 
 
-Use the keys - 'W', 'S', 'A'. 'D' for up, down, left, right movement of the slides.
+Use the keys - 'W', 'S', 'A'. 'D' for up, down, left and right movement of the slides.
 Try to combine the siides in such a way to make the mubmer 2048.
 Enjoy!
