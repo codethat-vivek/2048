@@ -1,8 +1,8 @@
 # 2048
-######################################################################################
+####################################################################################
 2048 is a single-player sliding tile puzzle video game.
 The objective of the game is to slide numbered tiles on a grid to combine them to create a tile with the number 2048.
-##########################################################################################################
+####################################################################################
 How to run this project - 
 
 Step - 1 : 
@@ -23,7 +23,7 @@ Step - 5 :
 Enter the "python" command and your file's name. Type in python file.py where file is your Python file's name.
 For example, if your Python file is named "main", you will have to type - python main.py .
 
-########################################################################################################
+####################################################################################
 How to play - 
 
 Use the keys - 'W', 'S', 'A'. 'D' for up, down, left and right movement of the slides.
